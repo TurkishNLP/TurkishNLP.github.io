@@ -1,0 +1,14 @@
+# Site settings
+title: A list of Turkish NLP tools and resources
+#subtitle: > # ignore newlines until "description:"
+description: > # ignore newlines until "baseurl:"
+    This is an ongoing collection of links to the
+    tools and resources for Turkish natural language processing.
+baseurl: ""
+url: "https://TurkishNLP.github.io/"
+github_username:  TurkishNLP
+encoding: utf-8
+future: true
+
+# Build settings
+markdown: kramdown
