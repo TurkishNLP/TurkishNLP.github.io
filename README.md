@@ -12,6 +12,7 @@ If you have suggestions or corrections please contact
     in a more recent effort. However, the corpus is only accessible
     thorough the query interface. The full data (to my knowledge)
     is not released.
+- [TS Turkish Corpus](https://tscorpus.com/) releases corpora in various domains including tweets, news columns, idioms and abstracts.
   
 
 ## Treebanks
@@ -47,3 +48,6 @@ If you have suggestions or corrections please contact
 
 - [Turkish WordNet](https://bitbucket.org/ozlemc/twn/downloads/?tab=downloads)
 
+## Other resources
+
+- [Prof. Deniz Yüret's list of Turkish NLP resources](http://www.denizyuret.com/2006/11/turkish-resources.html)
