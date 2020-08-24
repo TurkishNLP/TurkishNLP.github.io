@@ -1,9 +1,11 @@
 This is a collection of tools and resources for processing Turkish. 
 The list is still in its infancy.
-It most certainly is not the definitive or an exhaustive list.
+The candidates to be included in this  more organized
+list are collected [here](https://turkishnlp.github.io/list/).
 If you have suggestions or corrections please contact 
-[me](http://coltekin.net/cagri/).
-
+create an issue [here](https://github.com/TurkishNLP/list/issues),
+describing the resource, and providing appropriate links
+and citation information.
 
 ## General purpose corpora 
 - [METU Corpus](https://ii.metu.edu.tr/metu-corpora-research-group)
@@ -50,4 +52,4 @@ If you have suggestions or corrections please contact
 
 ## Other resources
 
-- [Prof. Deniz Yüret's list of Turkish NLP resources](http://www.denizyuret.com/2006/11/turkish-resources.html)
+- [Deniz Yüret's list of Turkish NLP resources](http://www.denizyuret.com/2006/11/turkish-resources.html)
