@@ -13,4 +13,5 @@ will be linked from this page.
 
 ## Similar collections
 
+- [Turkish Data Depository](https://tdd.ai/)
 - [Deniz Yüret's list of Turkish NLP resources](http://www.denizyuret.com/2006/11/turkish-resources.html)
